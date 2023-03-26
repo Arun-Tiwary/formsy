@@ -1,0 +1,60 @@
+input[type="file"] {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.formDetails-base-row {
+}
+
+.form-registration {
+  margin: 0 auto 30px auto;
+  padding: 20px;
+  width: 400px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+.input-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px;
+}
+
+.formDetails-base-value {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+
+.form-list {
+  padding: 3px;
+}
+
+.form-button {
+  border-radius: 5px;
+  width: 19em;
+  padding: 1em;
+  margin-top: 2em;
+  cursor: pointer;
+  background-color: cadetblue;
+  font-weight: 700;
+}
+
+.form-button :hover {
+  background-color: #ccc;
+}
+
+.form-media {
+  display: flex;
+  margin-left: -66px;
+  margin-top: 20px;
+}
+
+.icon-required {
+  display: inline-block;
+  position: relative;
+  left: -115px;
+}

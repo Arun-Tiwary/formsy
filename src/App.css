@@ -1,0 +1,17 @@
+@import "./Components/RegitrationForm.css";
+.App {
+  text-align: center;
+}
+input {
+  border-radius: 15px;
+  min-width: 178px;
+  padding: 3px;
+}
+
+select {
+  min-width: 178px;
+  border-radius: 15px;
+}
+
+.logo-title {
+}
